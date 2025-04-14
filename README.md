@@ -11,4 +11,7 @@ Tools and related resources :
 - Physical Implementation : OpenLane
 - LVS , DRC : Klayout , Magic
 - Viewlayout : OpenRoad
- 
+
+# Project Structure
+
+# Verify NCO 
